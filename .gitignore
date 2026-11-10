@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+.venv-oj/
+venv/
+__pycache__/
+*.pyc
+*.env
+.ipynb_checkpoints/
